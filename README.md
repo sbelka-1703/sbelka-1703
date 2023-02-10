@@ -15,6 +15,8 @@ Here are some of my recent projects that showcase my skills and experience:
 - TypeScript
 - Tailwind 
 - Next.js
+- React Testing Library 
+- Jest
 - GraphQL
 - Ethers.js
 - Hardhat
@@ -23,7 +25,7 @@ Here are some of my recent projects that showcase my skills and experience:
 
 ## Contributions
 
-For the past 7 months I have been a frontend developer for the eden protocol. 
+For the past 9 months I have been a frontend developer for the eden protocol. 
 
 ## Contact Me
 
