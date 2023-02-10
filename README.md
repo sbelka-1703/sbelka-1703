@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**sbelka-1703/sbelka-1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a front-end developer at Eden Protocol 🌱 with a passion for creating user-friendly and responsive web applications. I specialize in Tailwind, TypeScript, and Next.js and I'm always eager to learn and tackle new challenges.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my recent projects that showcase my skills and experience:
+
+- **Project 1**: A web application that allows users to search for and book hotel rooms. Built with Next.js, TypeScript, and a RESTful API.
+- **Project 2**: A responsive landing page for a fictional product. Built with HTML, CSS, and JavaScript.
+- **Project 3**: A real-time chat application that allows users to send and receive messages in real-time. Built with Next.js, TypeScript, and WebSockets.
+
+## Skills
+
+- TypeScript
+- Tailwind 
+- Next.js
+- GraphQL
+- Ethers.js
+- Hardhat
+- ChakraUI
+- OpenAI API
+
+## Contributions
+
+For the past 7 months I have been a frontend developer for the eden protocol. 
+
+## Contact Me
+
+If you have any questions or would like to work with me on a project, feel free to reach out to me via email or connect with me on LinkedIn. I look forward to hearing from you!
+
+Thank you for visiting my GitHub profile. I hope you found it informative and helpful.
