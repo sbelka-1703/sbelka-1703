@@ -1,7 +1,7 @@
 
 # Welcome to Sbelka's GitHub Profile 👋
 
-Hi there! I'm a self-taught front-end developer at Eden Protocol 🌱 with a passion for creating user-friendly and responsive web applications. I specialize in Tailwind, TypeScript, and Next.js and I'm always eager to learn and tackle new challenges.
+Hi there! I'm a self-taught front-end developer at Eden Protocol 🌱 with a passion for creating user-friendly and responsive web applications.  I specialize in Tailwind, TypeScript, and Next.js and I'm always eager to learn and tackle new challenges.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
