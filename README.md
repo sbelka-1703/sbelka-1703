@@ -17,7 +17,7 @@ I'm always eager to expand my skill set and tackle new challenges.
 ## What I am currently doing: 
 - 👨‍💻 Contributing to Eden Protocol Fulltime 
 - 🧪 Becoming a better frontend tester with Jest and RTL
-- 🤖 Building fullstack components with OpenAI API
+- 🤖 Learning how to build fullstack components with OpenAI API, GaphQL and Node.js
 
 
 
