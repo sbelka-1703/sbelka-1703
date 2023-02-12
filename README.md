@@ -1,5 +1,8 @@
 
 # Welcome to Sbelka's GitHub Profile 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
+</div>
 
 
 Hi there! I'm a self-taught frontend developer who left a career of medicine to pursue and discover the frontier of Web3. 
@@ -14,10 +17,7 @@ I'm always eager to expand my skill set and tackle new challenges.
 ## What I am currently doing: 
 - 👨‍💻 Contributing to Eden Protocol Fulltime 
 - 🧪 Becoming a better frontend tester with Jest and RTL
-- 🤖 Building my first fullstack component with OpenAI API
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-</div>
+- 🤖 Building fullstack components with OpenAI API
 
 
 
