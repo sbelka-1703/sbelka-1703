@@ -9,8 +9,7 @@ Hi there! I'm a self-taught frontend developer who left a career of medicine to 
 
 
 ## What I am currently doing: 
-- 👨‍💻 Contributing to [Eden Protocol](https://eden-alpha-develop.vercel.app/)
- Fulltime for the last 9 months 
+- 👨‍💻 Contributing fulltime to [Eden Protocol](https://eden-alpha-develop.vercel.app/)  
 - 🧪 Becoming a better frontend tester with Jest and RTL
 - 🤖 Learning how to build fullstack components with OpenAI API, GaphQL and Node.js
 
