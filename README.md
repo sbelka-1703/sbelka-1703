@@ -7,12 +7,6 @@
 
 Hi there! I'm a self-taught frontend developer who left a career of medicine to pursue and discover the frontier of Web3. 
 
-I am now a full-time member of the talented team at Eden Protocol 🌱 , where I specialize in creating intuitive, visually appealing, and responsive components. My expertise lies in utilizing the latest web technologies such as TypeScript, Tailwind, Next.js and to bring innovative ideas to life. 
-
-I'm always eager to expand my skill set and tackle new challenges.
-
-
-
 
 ## What I am currently doing: 
 - 👨‍💻 Contributing to Eden Protocol Fulltime 
