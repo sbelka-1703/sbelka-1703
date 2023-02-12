@@ -15,14 +15,6 @@ Hi there! I'm a self-taught frontend developer who left a career of medicine to 
 
 
 
-## Projects
-
-Here are some of my recent projects that showcase my skills and experience:
-
-- **Eden**: A talent matching protocol.
-- **Project 2**: A responsive landing page for a fictional product. Built with HTML, CSS, and JavaScript.
-- **Project 3**: A real-time chat application that allows users to send and receive messages in real-time. Built with Next.js, TypeScript, and WebSockets.
-
 ## Skills
 
 - TypeScript
