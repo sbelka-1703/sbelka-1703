@@ -5,7 +5,7 @@
 </div>
 
 
-Hi there! I'm a self-taught frontend developer who left a career of medicine to pursue and discover the frontier of Web3. 
+Hi there! I'm a self-taught frontend developer who left a career of medicine to pursue and discover the frontier of Web3
 
 
 ## What I am currently doing: 
