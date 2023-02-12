@@ -28,12 +28,3 @@ Hi there! I'm a self-taught frontend developer who left a career of medicine to 
 - ChakraUI
 - OpenAI API
 
-## Contributions
-
-For the past 9 months I have been a frontend developer for the eden protocol. 
-
-## Contact Me
-
-If you have any questions or would like to work with me on a project, feel free to reach out to me via email or connect with me on LinkedIn. I look forward to hearing from you!
-
-Thank you for visiting my GitHub profile. I hope you found it informative and helpful.
